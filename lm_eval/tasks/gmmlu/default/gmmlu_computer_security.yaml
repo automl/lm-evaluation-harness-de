@@ -1,0 +1,7 @@
+"dataset_name": "computer_security"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Computersicherheit.\n\
+  \n"
+"group": "gmmlu_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "gmmlu_computer_security"

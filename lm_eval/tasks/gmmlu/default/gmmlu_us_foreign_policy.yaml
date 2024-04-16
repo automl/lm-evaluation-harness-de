@@ -1,0 +1,7 @@
+"dataset_name": "us_foreign_policy"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über US-amerikanische\
+  \ Außenpolitik.\n\n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_us_foreign_policy"

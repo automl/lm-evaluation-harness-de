@@ -1,0 +1,7 @@
+"dataset_name": "professional_medicine"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über professionelle\
+  \ Medizin.\n\n"
+"group": "gmmlu_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "gmmlu_professional_medicine"

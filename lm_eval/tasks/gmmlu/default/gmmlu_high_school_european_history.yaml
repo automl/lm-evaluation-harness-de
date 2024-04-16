@@ -1,0 +1,7 @@
+"dataset_name": "high_school_european_history"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über europäische\
+  \ Geschichte in der Schule.\n\n"
+"group": "gmmlu_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "gmmlu_high_school_european_history"

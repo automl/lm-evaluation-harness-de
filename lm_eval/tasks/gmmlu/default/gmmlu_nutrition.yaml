@@ -1,0 +1,7 @@
+"dataset_name": "nutrition"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Ernährung.\n\
+  \n"
+"group": "gmmlu_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "gmmlu_nutrition"

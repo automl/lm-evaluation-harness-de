@@ -1,0 +1,7 @@
+"dataset_name": "conceptual_physics"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über konzeptionelle\
+  \ Physik.\n\n"
+"group": "gmmlu_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "gmmlu_conceptual_physics"

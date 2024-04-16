@@ -1,0 +1,7 @@
+"dataset_name": "medical_genetics"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über medizinische\
+  \ Genetik.\n\n"
+"group": "gmmlu_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "gmmlu_medical_genetics"

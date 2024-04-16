@@ -1,0 +1,7 @@
+"dataset_name": "high_school_microeconomics"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Mikroökonomie\
+  \ in der Schule.\n\n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_high_school_microeconomics"

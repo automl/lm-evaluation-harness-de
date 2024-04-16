@@ -1,0 +1,7 @@
+"dataset_name": "moral_scenarios"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über moralische\
+  \ Szenarios.\n\n"
+"group": "gmmlu_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "gmmlu_moral_scenarios"

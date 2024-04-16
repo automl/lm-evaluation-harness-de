@@ -1,0 +1,7 @@
+"dataset_name": "abstract_algebra"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über abstrakte\
+  \ Algebra.\n\n"
+"group": "gmmlu_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "gmmlu_abstract_algebra"

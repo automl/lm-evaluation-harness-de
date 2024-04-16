@@ -1,0 +1,7 @@
+"dataset_name": "professional_psychology"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über professionelle\
+  \ Psychologie.\n\n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_professional_psychology"

@@ -1,0 +1,7 @@
+"dataset_name": "sociology"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Soziologie.\n\
+  \n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_sociology"

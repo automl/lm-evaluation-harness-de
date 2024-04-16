@@ -1,0 +1,13 @@
+include: truthfulqa_mc1_de.yaml
+task: truthfulqa_mc2_de
+doc_to_target: 0
+doc_to_choice: "{{mc2_targets_de.choices}}"
+process_results: !function utils.process_results_mc2
+should_decontaminate: True
+doc_to_decontamination_query: question_de
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 0.0

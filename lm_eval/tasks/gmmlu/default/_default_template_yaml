@@ -1,0 +1,15 @@
+dataset_path: LeoLM/MMLU_de # a german translation (using GPT-3.5 API) of `cais/mmlu` with no auxiliary_train split
+test_split: test
+fewshot_split: validation
+fewshot_config:
+  sampler: first_n
+output_type: multiple_choice
+doc_to_text: "{{question_de.strip()}}\nA. {{choices_de[0]}}\nB. {{choices_de[1]}}\nC. {{choices_de[2]}}\nD. {{choices_de[3]}}\nAntwort:"
+doc_to_choice: ["A", "B", "C", "D"]
+doc_to_target: answer
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 0.0

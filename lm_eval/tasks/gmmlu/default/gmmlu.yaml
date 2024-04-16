@@ -1,0 +1,6 @@
+group: gmmlu
+task:
+- gmmlu_stem
+- gmmlu_other
+- gmmlu_social_sciences
+- gmmlu_humanities

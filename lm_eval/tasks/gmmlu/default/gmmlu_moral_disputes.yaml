@@ -1,0 +1,7 @@
+"dataset_name": "moral_disputes"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über moralische\
+  \ Auseinandersetzungen.\n\n"
+"group": "gmmlu_humanities"
+"group_alias": "humanities"
+"include": "_default_template_yaml"
+"task": "gmmlu_moral_disputes"

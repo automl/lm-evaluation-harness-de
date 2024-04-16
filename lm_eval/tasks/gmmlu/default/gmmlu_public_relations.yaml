@@ -1,0 +1,7 @@
+"dataset_name": "public_relations"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Öffentlichkeitsarbeit.\n\
+  \n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_public_relations"

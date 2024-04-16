@@ -1,0 +1,7 @@
+"dataset_name": "high_school_biology"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Biologie\
+  \ in der Schule.\n\n"
+"group": "gmmlu_stem"
+"group_alias": "stem"
+"include": "_default_template_yaml"
+"task": "gmmlu_high_school_biology"

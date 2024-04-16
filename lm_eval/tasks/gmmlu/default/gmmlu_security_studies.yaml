@@ -1,0 +1,7 @@
+"dataset_name": "security_studies"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über Sicherheitsforschung.\n\
+  \n"
+"group": "gmmlu_social_sciences"
+"group_alias": "social sciences"
+"include": "_default_template_yaml"
+"task": "gmmlu_security_studies"

@@ -1,0 +1,7 @@
+"dataset_name": "human_aging"
+"description": "Im Folgenden sind Multiple-Choice-Fragen (mit Antworten) über menschliches\
+  \ Altern.\n\n"
+"group": "gmmlu_other"
+"group_alias": "other"
+"include": "_default_template_yaml"
+"task": "gmmlu_human_aging"
